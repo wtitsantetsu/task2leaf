@@ -75,3 +75,5 @@ group :test do
 end
 
 gem 'bootstrap'
+
+gem 'rails-i18n'
