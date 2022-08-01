@@ -1,0 +1,6 @@
+--2022-08-01 11:50:02--  https://raw.githubusercontent.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml
+raw.githubusercontent.com (raw.githubusercontent.com) をDNSに問いあわせています... 2606:50c0:8003::154, 2606:50c0:8000::154, 2606:50c0:8001::154, ...
+raw.githubusercontent.com (raw.githubusercontent.com)|2606:50c0:8003::154|:443 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 503 hostname doesn't match against certificate
+2022-08-01 11:50:02 エラー 503: hostname doesn't match against certificate。
+
